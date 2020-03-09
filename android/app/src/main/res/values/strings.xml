@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shashty App</string>
+    <string name="facebook_app_id">440335503288947</string>
+    <string name="fb_login_protocol_scheme">fb440335503288947</string>
+</resources>

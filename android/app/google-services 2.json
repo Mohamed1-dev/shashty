@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1050578684964",
+    "firebase_url": "https://shashtyapp-5701d.firebaseio.com",
+    "project_id": "shashtyapp-5701d",
+    "storage_bucket": "shashtyapp-5701d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050578684964:android:eb860a77a5c45908",
+        "android_client_info": {
+          "package_name": "mind.shashty_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050578684964-qfpacrk3a62dkm9491r81a50cdfjvc3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATMiTYpDvBcFfL-HFCBVM8FBG_PCDU5DA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050578684964-qfpacrk3a62dkm9491r81a50cdfjvc3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

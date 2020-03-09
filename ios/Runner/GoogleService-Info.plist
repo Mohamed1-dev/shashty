@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>76687059053-jo2jqr7pnaf5j7425e8od7fqcq69kh25.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.76687059053-jo2jqr7pnaf5j7425e8od7fqcq69kh25</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBvYgWPxDuFurglFhqamHe9J87kJOmGJ1o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>76687059053</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mind.shashtyApp</string>
+	<key>PROJECT_ID</key>
+	<string>shashty-63683</string>
+	<key>STORAGE_BUCKET</key>
+	<string>shashty-63683.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:76687059053:ios:fd05524207b978869d3764</string>
+	<key>DATABASE_URL</key>
+	<string>https://shashty-63683.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,9 @@
+Gmail Account:
+Email: shashtyflutterapp@gmail.com
+Password: ShashtyFlutterApp2019
+birthday:30/6/2019
+
+Facebook Account:
+Email: shashtyflutterapp@gmail.com
+Password: ShashtyFlutterApp2019
+birthday:30/6/2019
